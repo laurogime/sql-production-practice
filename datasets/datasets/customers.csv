@@ -1,0 +1,201 @@
+customer_id,first_name,last_name,date_of_birth,gender,state,city,employment_status,annual_income_aud,credit_score,date_joined,is_active
+CUST0001,Sophia,Davis,1964-12-27,Female,TAS,Brisbane,Unemployed,61868,389,2018-02-21,N
+CUST0002,Sophia,Thompson,1957-11-07,Male,NSW,Melbourne,Retired,87124,729,2018-03-03,Y
+CUST0003,Zoe,Smith,1995-04-20,Female,QLD,Canberra,Unemployed,145785,648,2021-04-21,Y
+CUST0004,Emma,Williams,1968-12-12,Prefer not to say,ACT,Brisbane,Full-time,129104,652,2019-03-17,Y
+CUST0005,Emma,Jackson,1958-11-24,Male,WA,Adelaide,Retired,111854,670,2022-02-03,Y
+CUST0006,Carlos,Wilson,1961-03-29,Male,TAS,Melbourne,Part-time,262143,403,2018-04-04,N
+CUST0007,Mia,Garcia,1979-12-09,Non-binary,TAS,Canberra,Self-employed,89921,573,2020-07-17,Y
+CUST0008,Charlotte,Harris,1970-05-09,Prefer not to say,TAS,Melbourne,Self-employed,277585,524,2020-12-29,Y
+CUST0009,Anika,Anderson,1960-01-07,Prefer not to say,ACT,Sydney,Self-employed,52350,516,2019-04-15,Y
+CUST0010,Sione,Harris,1974-01-28,Female,WA,Perth,Self-employed,71603,552,2021-09-04,Y
+CUST0011,Mia,Davis,1993-06-08,Female,SA,Perth,Retired,164372,393,2023-01-13,Y
+CUST0012,Anika,White,1964-11-01,Male,TAS,Melbourne,Contractor,135039,779,2018-11-10,Y
+CUST0013,Priya,Young,1956-01-12,Non-binary,TAS,Sydney,Unemployed,124174,414,2021-10-25,Y
+CUST0014,Fatima,Taylor,1994-01-02,Female,WA,Sydney,Retired,274239,408,2018-11-20,Y
+CUST0015,Mia,Garcia,2000-07-18,Male,VIC,Melbourne,Retired,119975,800,2021-06-01,Y
+CUST0016,Anika,Wilson,1965-01-13,Female,QLD,Canberra,Full-time,98143,380,2023-03-18,Y
+CUST0017,Abigail,Jones,1998-08-07,Female,NSW,Canberra,Unemployed,159592,469,2022-07-30,Y
+CUST0018,Carlos,Miller,1992-12-17,Non-binary,VIC,Adelaide,Contractor,211078,682,2023-05-30,N
+CUST0019,Noah,Anderson,1995-07-04,Male,VIC,Melbourne,Retired,180207,535,2018-09-05,Y
+CUST0020,Olivia,Davis,1955-08-24,Male,TAS,Hobart,Full-time,260348,638,2018-05-26,Y
+CUST0021,William,Young,1976-05-08,Female,TAS,Perth,Unemployed,266311,784,2019-07-25,Y
+CUST0022,Emma,Brown,1997-06-07,Prefer not to say,WA,Melbourne,Self-employed,146038,720,2022-07-12,N
+CUST0023,Emma,Johnson,1959-11-11,Prefer not to say,TAS,Hobart,Unemployed,123946,411,2021-10-11,Y
+CUST0024,James,White,1972-03-10,Female,SA,Perth,Self-employed,156275,555,2019-01-25,Y
+CUST0025,Abigail,Brown,1994-10-03,Male,ACT,Canberra,Unemployed,176711,315,2022-07-13,Y
+CUST0026,Evelyn,Miller,1976-03-16,Prefer not to say,WA,Perth,Full-time,78158,688,2018-12-07,Y
+CUST0027,Mason,Wilson,1990-01-10,Prefer not to say,ACT,Canberra,Unemployed,226497,798,2019-06-28,Y
+CUST0028,Elijah,Young,1972-01-14,Male,VIC,Sydney,Unemployed,117209,358,2019-08-31,Y
+CUST0029,Charlotte,Johnson,1997-10-10,Male,ACT,Adelaide,Part-time,52962,369,2020-10-26,Y
+CUST0030,Elijah,Hall,1991-03-23,Male,SA,Melbourne,Retired,56491,729,2018-09-03,Y
+CUST0031,Ethan,Davis,1978-05-24,Non-binary,TAS,Hobart,Contractor,69308,607,2019-02-23,N
+CUST0032,Liam,Harris,1983-05-14,Male,ACT,Sydney,Full-time,175937,518,2023-03-18,Y
+CUST0033,Sione,Davis,1966-11-19,Non-binary,QLD,Sydney,Self-employed,76352,748,2023-03-27,Y
+CUST0034,Amelia,Brown,1955-09-14,Female,ACT,Adelaide,Self-employed,65258,409,2021-09-29,Y
+CUST0035,Wei,Anderson,1979-06-08,Female,SA,Melbourne,Unemployed,201261,570,2019-08-01,N
+CUST0036,Noah,White,1977-07-12,Non-binary,ACT,Sydney,Full-time,35929,641,2023-01-29,Y
+CUST0037,Abigail,White,1978-07-02,Male,TAS,Perth,Full-time,54724,452,2018-11-27,Y
+CUST0038,Harper,Jones,1988-02-15,Male,SA,Melbourne,Self-employed,130591,340,2021-04-07,Y
+CUST0039,Emma,Thomas,1973-11-05,Prefer not to say,VIC,Hobart,Retired,231471,458,2021-10-28,Y
+CUST0040,Charlotte,White,1969-07-30,Male,ACT,Canberra,Part-time,228085,640,2023-06-23,N
+CUST0041,Wei,Brown,1977-04-06,Prefer not to say,VIC,Canberra,Full-time,260075,781,2019-07-01,Y
+CUST0042,Amelia,Davis,1972-11-26,Female,WA,Brisbane,Full-time,208023,497,2022-07-31,N
+CUST0043,Carlos,Taylor,1984-06-13,Non-binary,ACT,Sydney,Unemployed,168537,709,2019-07-25,Y
+CUST0044,Elijah,Taylor,1957-06-23,Male,QLD,Melbourne,Full-time,191387,744,2018-08-25,Y
+CUST0045,Emma,Jackson,1983-02-21,Female,SA,Adelaide,Self-employed,46635,746,2020-06-12,Y
+CUST0046,Priya,Anderson,1972-09-04,Non-binary,WA,Sydney,Unemployed,257302,427,2020-01-16,Y
+CUST0047,Ethan,Jackson,2000-06-30,Non-binary,TAS,Perth,Retired,68367,496,2019-09-26,N
+CUST0048,Emily,Walker,1989-01-05,Non-binary,TAS,Melbourne,Contractor,178638,300,2021-10-19,Y
+CUST0049,Elijah,Hall,1980-09-27,Non-binary,WA,Canberra,Contractor,150811,752,2019-03-07,Y
+CUST0050,Fatima,Garcia,2000-11-10,Male,ACT,Canberra,Self-employed,170122,643,2020-08-27,Y
+CUST0051,Anika,Miller,1976-01-27,Female,QLD,Melbourne,Full-time,47114,550,2021-10-09,N
+CUST0052,Elijah,Miller,1961-07-14,Prefer not to say,WA,Hobart,Contractor,139766,549,2020-07-21,Y
+CUST0053,Carlos,Brown,1955-07-01,Prefer not to say,ACT,Canberra,Part-time,81107,830,2023-01-03,N
+CUST0054,Emma,Harris,1959-07-04,Female,VIC,Canberra,Contractor,210001,843,2021-02-15,Y
+CUST0055,Sione,Thompson,1994-09-15,Prefer not to say,ACT,Hobart,Retired,151893,462,2021-06-08,N
+CUST0056,Ravi,Taylor,1995-05-18,Prefer not to say,ACT,Melbourne,Unemployed,97716,581,2019-06-15,N
+CUST0057,Oliver,Anderson,1961-12-13,Non-binary,QLD,Melbourne,Retired,56122,441,2022-01-01,Y
+CUST0058,Wei,Miller,1975-09-30,Male,TAS,Melbourne,Contractor,141849,638,2020-02-24,N
+CUST0059,Harper,Jackson,1992-04-20,Male,VIC,Canberra,Retired,134714,788,2018-05-08,Y
+CUST0060,Zoe,White,1986-07-23,Female,ACT,Perth,Contractor,92520,579,2019-09-04,N
+CUST0061,Priya,Jackson,1998-07-27,Female,WA,Brisbane,Contractor,276052,430,2018-03-01,Y
+CUST0062,Liam,Williams,1990-05-08,Prefer not to say,SA,Hobart,Part-time,262239,772,2021-04-27,Y
+CUST0063,William,Harris,1959-07-06,Non-binary,WA,Brisbane,Self-employed,234551,688,2019-06-17,Y
+CUST0064,Evelyn,Smith,1992-10-26,Male,ACT,Sydney,Self-employed,93778,370,2019-06-01,Y
+CUST0065,Ravi,Smith,1957-10-13,Female,VIC,Melbourne,Part-time,68088,784,2023-04-29,Y
+CUST0066,Carlos,Thomas,1974-07-22,Female,TAS,Brisbane,Retired,194186,417,2020-08-10,Y
+CUST0067,Mei,Wilson,1982-11-27,Prefer not to say,SA,Sydney,Contractor,222436,503,2018-08-10,Y
+CUST0068,Amelia,Hall,1976-10-14,Male,TAS,Canberra,Retired,240163,342,2018-07-28,Y
+CUST0069,Aiden,Anderson,1993-06-07,Male,QLD,Sydney,Contractor,250569,801,2021-09-16,Y
+CUST0070,Sione,Harris,1993-11-22,Female,QLD,Hobart,Contractor,81173,834,2023-05-22,Y
+CUST0071,Fatima,Walker,1998-05-18,Non-binary,WA,Canberra,Self-employed,258271,551,2020-08-10,Y
+CUST0072,Carlos,Harris,1980-01-09,Prefer not to say,WA,Melbourne,Self-employed,42523,806,2022-12-11,Y
+CUST0073,Anika,Taylor,1971-04-25,Non-binary,VIC,Brisbane,Self-employed,265770,582,2020-09-25,Y
+CUST0074,Harper,Martin,1972-02-21,Female,VIC,Hobart,Unemployed,159804,802,2018-06-25,N
+CUST0075,Lucas,Davis,1956-07-19,Non-binary,QLD,Melbourne,Unemployed,187451,677,2018-07-10,N
+CUST0076,Ethan,Thomas,1985-11-03,Prefer not to say,TAS,Adelaide,Self-employed,115379,557,2020-05-21,Y
+CUST0077,Emma,Young,1965-10-28,Female,VIC,Brisbane,Part-time,91723,795,2022-01-17,Y
+CUST0078,Amelia,Davis,1980-05-22,Non-binary,ACT,Melbourne,Part-time,114237,314,2018-07-25,Y
+CUST0079,Amelia,Jones,1979-08-11,Prefer not to say,NSW,Adelaide,Full-time,263778,312,2018-04-04,Y
+CUST0080,Charlotte,Johnson,1997-02-10,Non-binary,WA,Brisbane,Contractor,64907,366,2020-09-07,N
+CUST0081,Priya,Johnson,1999-02-12,Female,SA,Hobart,Part-time,247636,611,2018-06-01,Y
+CUST0082,Harper,Hall,1977-04-07,Female,SA,Canberra,Retired,134713,761,2018-08-31,N
+CUST0083,Amelia,Walker,1981-09-04,Male,SA,Perth,Retired,229009,401,2022-10-28,Y
+CUST0084,Charlotte,Davis,1973-12-06,Female,TAS,Sydney,Retired,54677,460,2019-06-26,Y
+CUST0085,Evelyn,Wilson,1991-08-26,Male,TAS,Adelaide,Part-time,110524,589,2020-07-11,N
+CUST0086,Anika,Walker,1961-05-21,Female,VIC,Brisbane,Contractor,65087,530,2021-11-08,Y
+CUST0087,Olivia,Garcia,1978-10-31,Non-binary,VIC,Sydney,Retired,231334,595,2022-08-20,N
+CUST0088,Wei,Jackson,1966-02-26,Non-binary,TAS,Brisbane,Retired,176552,805,2020-08-17,N
+CUST0089,Fatima,Anderson,1962-03-20,Non-binary,NSW,Perth,Full-time,58940,534,2021-05-09,Y
+CUST0090,Carlos,Garcia,1979-03-07,Prefer not to say,NSW,Canberra,Retired,205789,752,2021-03-26,Y
+CUST0091,Ravi,Martin,1971-04-14,Male,WA,Hobart,Contractor,126215,718,2021-04-13,Y
+CUST0092,Charlotte,Anderson,1983-10-21,Prefer not to say,NSW,Canberra,Unemployed,164884,595,2021-10-04,N
+CUST0093,Oliver,Anderson,1958-04-17,Male,NSW,Brisbane,Contractor,261731,826,2020-07-20,Y
+CUST0094,Aiden,Thomas,1996-06-12,Prefer not to say,NSW,Melbourne,Unemployed,150878,352,2020-04-26,Y
+CUST0095,Mason,Martin,1978-12-16,Male,VIC,Brisbane,Full-time,200156,545,2021-01-29,Y
+CUST0096,Harper,Williams,1982-11-17,Female,NSW,Adelaide,Full-time,155965,420,2021-02-02,Y
+CUST0097,Aiden,Taylor,1999-09-17,Prefer not to say,TAS,Brisbane,Contractor,158789,549,2023-03-26,N
+CUST0098,Aiden,Jones,1967-12-23,Male,VIC,Adelaide,Self-employed,237552,724,2020-02-25,Y
+CUST0099,Amelia,Wilson,2000-07-20,Prefer not to say,ACT,Sydney,Part-time,152059,795,2019-07-02,Y
+CUST0100,Lucas,Harris,1984-10-28,Non-binary,ACT,Adelaide,Part-time,217845,544,2021-02-04,N
+CUST0101,Olivia,Anderson,1975-12-15,Prefer not to say,ACT,Perth,Unemployed,274450,690,2022-10-20,N
+CUST0102,Aiden,Walker,1968-08-24,Non-binary,NSW,Melbourne,Full-time,264163,750,2020-10-11,Y
+CUST0103,Harper,Jones,1995-12-29,Male,TAS,Melbourne,Contractor,239872,571,2018-02-01,Y
+CUST0104,Ethan,Young,1990-08-29,Prefer not to say,NSW,Canberra,Self-employed,199311,799,2021-08-23,Y
+CUST0105,Mei,Wilson,1961-02-20,Female,TAS,Hobart,Unemployed,58692,744,2019-04-26,Y
+CUST0106,Amelia,Smith,1964-01-07,Male,VIC,Hobart,Self-employed,243704,357,2020-06-27,Y
+CUST0107,Sophia,Thompson,1987-02-28,Prefer not to say,WA,Melbourne,Retired,213729,484,2020-02-07,Y
+CUST0108,Lucas,Hall,1970-09-15,Female,SA,Canberra,Contractor,274292,446,2018-06-11,Y
+CUST0109,Oliver,Smith,1996-05-15,Prefer not to say,QLD,Perth,Self-employed,212631,461,2021-07-30,Y
+CUST0110,Amelia,White,1994-08-18,Non-binary,QLD,Adelaide,Contractor,256591,609,2023-04-20,Y
+CUST0111,Sophia,Jackson,1989-07-06,Non-binary,WA,Sydney,Retired,112561,602,2022-10-14,Y
+CUST0112,Zoe,Johnson,1990-07-05,Prefer not to say,NSW,Adelaide,Self-employed,238355,535,2019-07-17,Y
+CUST0113,Oliver,Jones,1974-08-25,Male,VIC,Adelaide,Unemployed,204434,340,2021-07-27,Y
+CUST0114,Fatima,Jones,1994-07-19,Male,SA,Brisbane,Self-employed,120647,725,2018-03-10,Y
+CUST0115,Sione,Thomas,1973-01-05,Non-binary,ACT,Adelaide,Part-time,102363,793,2018-09-28,Y
+CUST0116,Noah,Jones,1985-05-22,Female,NSW,Perth,Unemployed,224849,706,2022-07-06,Y
+CUST0117,Oliver,Young,1963-02-07,Male,WA,Sydney,Contractor,131622,568,2022-06-08,N
+CUST0118,Evelyn,Smith,1988-04-29,Non-binary,TAS,Melbourne,Retired,93030,364,2018-08-10,N
+CUST0119,James,Johnson,1982-02-10,Male,WA,Sydney,Self-employed,164138,418,2021-08-22,Y
+CUST0120,Lucas,Harris,1976-01-24,Non-binary,SA,Melbourne,Unemployed,229809,729,2022-12-23,Y
+CUST0121,Evelyn,Hall,1992-03-21,Prefer not to say,NSW,Canberra,Self-employed,43576,679,2021-09-03,Y
+CUST0122,Mia,Brown,1994-10-11,Non-binary,VIC,Canberra,Retired,271374,667,2020-06-29,Y
+CUST0123,Zoe,Harris,1990-09-20,Male,VIC,Sydney,Unemployed,90602,321,2019-07-20,Y
+CUST0124,Elijah,Miller,1984-12-02,Male,VIC,Canberra,Retired,89305,521,2019-05-14,Y
+CUST0125,Sione,Hall,1984-06-23,Male,VIC,Canberra,Self-employed,260026,448,2022-05-05,Y
+CUST0126,Priya,Smith,1977-06-27,Female,VIC,Sydney,Full-time,128911,543,2022-06-24,Y
+CUST0127,James,White,1956-06-01,Male,QLD,Sydney,Unemployed,51661,787,2018-12-23,N
+CUST0128,Mason,Thompson,1987-06-25,Female,SA,Sydney,Retired,46367,833,2020-11-17,Y
+CUST0129,Evelyn,Jackson,1996-02-04,Prefer not to say,NSW,Sydney,Unemployed,63301,802,2021-08-10,N
+CUST0130,Emily,Jones,1961-08-05,Male,NSW,Brisbane,Part-time,107093,632,2023-01-16,N
+CUST0131,Harper,Brown,1981-06-16,Male,SA,Adelaide,Unemployed,205633,520,2020-07-18,N
+CUST0132,Ethan,Harris,1995-07-06,Prefer not to say,VIC,Perth,Contractor,226263,397,2022-12-24,Y
+CUST0133,Mia,Jones,1993-04-15,Prefer not to say,TAS,Brisbane,Full-time,58914,387,2019-10-03,Y
+CUST0134,Mia,Jones,1993-09-29,Male,TAS,Hobart,Retired,182216,637,2018-07-17,Y
+CUST0135,Carlos,White,1991-11-09,Male,ACT,Hobart,Self-employed,192393,619,2019-12-26,Y
+CUST0136,James,Martin,1964-04-17,Female,SA,Melbourne,Full-time,126780,676,2021-03-29,Y
+CUST0137,Harper,Young,1979-12-29,Male,VIC,Canberra,Retired,278553,573,2021-03-21,Y
+CUST0138,Amelia,Anderson,1971-03-09,Non-binary,TAS,Canberra,Full-time,82554,446,2019-07-14,N
+CUST0139,Liam,Williams,1961-03-30,Female,TAS,Hobart,Contractor,145056,764,2018-10-18,Y
+CUST0140,Ethan,Walker,1969-02-13,Male,QLD,Hobart,Full-time,75784,461,2020-01-28,Y
+CUST0141,Harper,Martin,1962-04-27,Prefer not to say,WA,Hobart,Contractor,106609,520,2019-07-12,Y
+CUST0142,Priya,Walker,1985-12-19,Prefer not to say,NSW,Brisbane,Retired,209884,615,2020-05-30,Y
+CUST0143,Liam,Miller,1974-10-13,Non-binary,SA,Sydney,Part-time,236156,440,2020-03-20,Y
+CUST0144,Evelyn,White,1980-12-19,Female,NSW,Sydney,Part-time,134669,845,2019-11-03,Y
+CUST0145,Anika,Thomas,1999-11-18,Male,ACT,Hobart,Contractor,260906,343,2021-02-18,N
+CUST0146,Ethan,Walker,1956-09-06,Prefer not to say,NSW,Canberra,Retired,141017,727,2020-07-30,Y
+CUST0147,Charlotte,Hall,1965-05-02,Prefer not to say,NSW,Brisbane,Unemployed,276112,670,2020-04-09,Y
+CUST0148,Harper,Walker,1994-03-07,Prefer not to say,NSW,Melbourne,Retired,55616,705,2022-09-26,Y
+CUST0149,Charlotte,Williams,1985-06-17,Male,QLD,Canberra,Retired,168680,498,2019-03-30,Y
+CUST0150,Ravi,Jones,1986-07-01,Female,ACT,Hobart,Full-time,73389,562,2022-01-29,Y
+CUST0151,Carlos,Williams,1970-07-26,Female,VIC,Canberra,Unemployed,164529,775,2021-05-18,N
+CUST0152,James,Harris,1983-12-30,Male,TAS,Brisbane,Contractor,150922,610,2022-11-05,Y
+CUST0153,Amelia,Harris,1960-01-15,Prefer not to say,SA,Sydney,Full-time,49913,677,2019-12-22,Y
+CUST0154,Noah,Hall,1961-11-19,Prefer not to say,ACT,Canberra,Contractor,187129,342,2021-08-13,N
+CUST0155,Aiden,Jones,1971-11-21,Male,SA,Perth,Contractor,62132,651,2019-10-21,Y
+CUST0156,Sophia,Harris,2000-04-07,Prefer not to say,VIC,Sydney,Retired,172035,462,2021-08-16,Y
+CUST0157,Harper,Anderson,1988-06-13,Male,QLD,Perth,Unemployed,204687,642,2023-02-23,Y
+CUST0158,Lucas,Wilson,1984-07-30,Non-binary,SA,Hobart,Unemployed,258232,453,2018-07-13,Y
+CUST0159,Mei,Thomas,1962-04-24,Non-binary,TAS,Melbourne,Unemployed,218102,701,2021-04-08,Y
+CUST0160,Hiroshi,Anderson,1962-08-08,Female,SA,Perth,Unemployed,219242,839,2019-09-27,Y
+CUST0161,Mia,Wilson,1992-12-26,Female,QLD,Sydney,Part-time,124583,797,2020-11-07,Y
+CUST0162,Amelia,Brown,1975-04-29,Male,VIC,Sydney,Unemployed,123280,434,2018-10-09,N
+CUST0163,Wei,Hall,1968-11-02,Female,VIC,Canberra,Unemployed,149733,344,2018-11-29,N
+CUST0164,Mason,Hall,1987-09-07,Non-binary,TAS,Melbourne,Unemployed,240468,759,2021-10-17,Y
+CUST0165,Evelyn,Miller,1976-06-16,Non-binary,ACT,Canberra,Unemployed,184532,751,2019-09-26,N
+CUST0166,Aiden,White,1980-04-12,Female,WA,Adelaide,Part-time,245045,441,2022-05-13,Y
+CUST0167,Mia,Young,1959-09-06,Male,WA,Canberra,Unemployed,256745,828,2021-08-06,Y
+CUST0168,Oliver,Harris,1980-07-28,Female,ACT,Melbourne,Contractor,59042,527,2018-06-21,N
+CUST0169,Olivia,Jackson,1986-05-13,Non-binary,NSW,Perth,Part-time,136231,383,2023-03-21,Y
+CUST0170,Ravi,Anderson,1975-02-22,Female,QLD,Sydney,Part-time,45040,593,2018-02-27,N
+CUST0171,Mason,Hall,1967-06-14,Male,TAS,Perth,Full-time,39981,562,2022-04-04,Y
+CUST0172,Aiden,White,1968-05-31,Male,TAS,Adelaide,Self-employed,97295,608,2021-01-28,Y
+CUST0173,Anika,Hall,1959-04-14,Prefer not to say,WA,Hobart,Full-time,64060,811,2019-05-04,Y
+CUST0174,Harper,Smith,1976-09-14,Non-binary,VIC,Brisbane,Part-time,184596,726,2022-01-11,Y
+CUST0175,Aiden,Young,1962-09-06,Male,QLD,Sydney,Contractor,263938,781,2020-12-08,Y
+CUST0176,Liam,Thomas,1989-09-16,Male,QLD,Hobart,Self-employed,98209,406,2020-02-04,Y
+CUST0177,Ethan,Garcia,1966-12-20,Prefer not to say,QLD,Adelaide,Unemployed,160444,486,2018-04-01,Y
+CUST0178,Olivia,Wilson,1960-08-29,Female,ACT,Perth,Full-time,242384,504,2022-01-06,Y
+CUST0179,Lucas,Young,1983-04-25,Prefer not to say,QLD,Adelaide,Self-employed,44599,495,2023-03-27,Y
+CUST0180,Zoe,Anderson,1987-01-10,Non-binary,ACT,Sydney,Full-time,244542,676,2022-11-01,N
+CUST0181,Ethan,Garcia,1990-11-20,Prefer not to say,WA,Perth,Unemployed,165422,676,2022-03-03,Y
+CUST0182,Harper,Hall,1962-05-31,Female,WA,Sydney,Retired,112009,628,2022-01-29,Y
+CUST0183,Amelia,Harris,1962-03-08,Prefer not to say,TAS,Brisbane,Part-time,215817,754,2019-11-03,Y
+CUST0184,Mei,Thomas,1995-02-11,Prefer not to say,TAS,Canberra,Self-employed,202633,358,2018-03-28,Y
+CUST0185,Fatima,Garcia,1991-06-11,Male,SA,Canberra,Part-time,257473,748,2020-01-15,Y
+CUST0186,Hiroshi,Thomas,1966-04-29,Non-binary,VIC,Canberra,Contractor,183699,333,2018-05-18,Y
+CUST0187,Mason,Williams,1995-05-14,Female,QLD,Brisbane,Retired,131193,707,2023-04-28,Y
+CUST0188,Fatima,Garcia,1980-01-02,Prefer not to say,NSW,Sydney,Retired,136446,420,2019-05-27,Y
+CUST0189,Emily,Wilson,1978-05-09,Prefer not to say,WA,Melbourne,Part-time,67148,438,2021-12-12,Y
+CUST0190,Noah,Anderson,1995-07-22,Non-binary,TAS,Perth,Unemployed,52023,597,2018-12-20,Y
+CUST0191,Hiroshi,Garcia,1969-02-17,Non-binary,TAS,Hobart,Retired,93783,424,2021-12-28,Y
+CUST0192,Liam,Thomas,1967-06-17,Non-binary,ACT,Perth,Contractor,245675,432,2019-04-30,Y
+CUST0193,Fatima,Martin,1960-11-24,Prefer not to say,WA,Hobart,Contractor,250833,375,2019-09-26,Y
+CUST0194,Mason,Thompson,1983-06-11,Non-binary,NSW,Perth,Part-time,265151,486,2021-08-08,Y
+CUST0195,Ravi,Brown,1993-10-24,Female,ACT,Sydney,Self-employed,78163,465,2020-10-26,Y
+CUST0196,Zoe,Williams,1975-03-25,Non-binary,SA,Brisbane,Part-time,201476,581,2019-12-10,Y
+CUST0197,Aiden,Garcia,1982-03-02,Female,SA,Sydney,Part-time,207682,645,2021-06-12,Y
+CUST0198,Carlos,Walker,1957-07-18,Non-binary,NSW,Hobart,Unemployed,90262,726,2018-06-16,Y
+CUST0199,Amelia,Wilson,1999-09-06,Prefer not to say,TAS,Adelaide,Part-time,245944,715,2022-12-26,Y
+CUST0200,Charlotte,Harris,1995-09-09,Prefer not to say,TAS,Sydney,Contractor,156750,508,2018-05-30,Y

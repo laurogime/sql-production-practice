@@ -1,0 +1,81 @@
+employee_id,first_name,last_name,department,job_title,company,state,hire_date,salary_aud,is_remote,manager_id
+EMP001,Oliver,Davis,Data Analytics,Risk Analyst,Up Bank,NSW,2019-10-28,148930,Y,
+EMP002,Zoe,Johnson,Finance,Lead DE,Afterpay,NSW,2017-06-22,143216,Y,
+EMP003,William,Brown,Data Engineering,Data Engineer,Bendigo Bank,TAS,2016-09-03,134859,Y,
+EMP004,Hiroshi,Smith,Engineering,Data Analyst,NAB,TAS,2020-12-25,129869,Y,
+EMP005,Charlotte,Thomas,Data Analytics,Risk Analyst,Macquarie Bank,SA,2023-05-20,113846,Y,
+EMP006,Abigail,Harris,Data Engineering,Risk Analyst,Afterpay,TAS,2018-02-27,179826,N,
+EMP007,Amelia,Wilson,Data Analytics,Software Engineer,Airwallex,TAS,2022-06-29,164964,Y,
+EMP008,Priya,Smith,Product,Software Engineer,ANZ,TAS,2015-06-01,187337,Y,
+EMP009,Fatima,Johnson,Data Engineering,Senior DE,Macquarie Bank,ACT,2023-03-17,83136,Y,
+EMP010,Mia,Jackson,Engineering,Analytics Engineer,Westpac,NSW,2020-11-15,67429,Y,
+EMP011,Evelyn,Wilson,Finance,Junior DE,Commonwealth Bank,QLD,2023-04-15,198501,Y,EMP019
+EMP012,Priya,Johnson,Product,Senior DE,Tyro Payments,VIC,2015-10-12,79324,N,EMP003
+EMP013,Mei,Walker,Data Analytics,Junior DE,Macquarie Bank,SA,2023-03-18,141923,N,EMP007
+EMP014,Amelia,Johnson,Risk & Compliance,Data Engineer,Westpac,NSW,2015-03-08,173592,Y,EMP015
+EMP015,Priya,Miller,Data Engineering,Junior DE,Bendigo Bank,QLD,2015-06-14,136957,Y,EMP007
+EMP016,Fatima,Thompson,Engineering,Product Manager,Zip Co,QLD,2015-12-28,160533,Y,EMP013
+EMP017,Carlos,White,Product,Data Analyst,Up Bank,NSW,2019-08-28,69042,Y,EMP004
+EMP018,Sophia,Thomas,Data Engineering,Data Analyst,Airwallex,NSW,2017-12-20,201940,N,EMP012
+EMP019,Fatima,Jones,Product,Product Manager,Commonwealth Bank,TAS,2016-05-08,134687,Y,EMP003
+EMP020,Abigail,Jackson,Data Engineering,Data Engineer,Bendigo Bank,NSW,2018-11-04,125380,Y,EMP003
+EMP021,Charlotte,Martin,Operations,Data Engineer,Macquarie Bank,VIC,2022-12-15,178882,Y,EMP020
+EMP022,Emma,Johnson,Product,Data Engineer,Up Bank,ACT,2017-02-28,134008,Y,EMP011
+EMP023,Wei,Martin,Data Analytics,Data Analyst,Bendigo Bank,VIC,2015-02-12,131782,Y,EMP002
+EMP024,Evelyn,Williams,Data Analytics,Senior DE,Commonwealth Bank,WA,2020-07-27,117446,Y,EMP011
+EMP025,Abigail,Wilson,Risk & Compliance,Senior DE,Macquarie Bank,NSW,2023-03-25,73346,N,EMP017
+EMP026,Fatima,Hall,Product,Senior DE,Bendigo Bank,ACT,2019-11-25,74039,Y,EMP008
+EMP027,Emma,Smith,Engineering,Lead DE,ANZ,ACT,2019-07-28,75217,N,EMP004
+EMP028,Carlos,Johnson,Data Engineering,Software Engineer,ANZ,VIC,2023-09-02,135487,N,EMP020
+EMP029,Anika,Walker,Data Analytics,Senior DE,Zip Co,SA,2020-01-25,93992,Y,EMP010
+EMP030,Ethan,Walker,Operations,Analytics Engineer,Judo Bank,VIC,2023-03-22,85152,Y,EMP009
+EMP031,Amelia,Anderson,Operations,Junior DE,Westpac,WA,2022-02-17,115257,Y,EMP009
+EMP032,Evelyn,Davis,Engineering,Risk Analyst,Up Bank,SA,2022-03-25,110537,Y,EMP014
+EMP033,Noah,Williams,Data Engineering,Data Analyst,ANZ,ACT,2018-02-14,208839,Y,EMP019
+EMP034,Wei,Harris,Data Analytics,Analytics Engineer,NAB,NSW,2022-03-08,100565,N,EMP014
+EMP035,Evelyn,Hall,Engineering,Lead DE,Up Bank,WA,2020-07-11,188403,Y,EMP015
+EMP036,Liam,Martin,Data Engineering,Software Engineer,Tyro Payments,VIC,2020-09-10,82471,Y,EMP002
+EMP037,Hiroshi,Thomas,Data Engineering,Lead DE,NAB,TAS,2020-08-23,123480,Y,EMP012
+EMP038,Charlotte,Johnson,Engineering,Senior DE,Up Bank,VIC,2020-02-05,216082,Y,EMP013
+EMP039,Hiroshi,Garcia,Data Engineering,Data Engineer,Afterpay,ACT,2015-12-10,166548,Y,EMP019
+EMP040,Fatima,Brown,Finance,Senior DE,Airwallex,TAS,2024-02-07,150299,Y,EMP002
+EMP041,Mei,White,Engineering,Risk Analyst,ANZ,NSW,2022-08-25,212391,Y,EMP018
+EMP042,Priya,Davis,Engineering,Junior DE,Tyro Payments,SA,2018-01-14,65431,Y,EMP016
+EMP043,William,White,Data Engineering,Software Engineer,Airwallex,VIC,2019-05-21,191722,Y,EMP007
+EMP044,Emily,Thomas,Data Engineering,Risk Analyst,Airwallex,TAS,2024-02-26,217886,Y,EMP016
+EMP045,Anika,Anderson,Risk & Compliance,Junior DE,Zip Co,TAS,2019-10-20,67251,Y,EMP002
+EMP046,Priya,Hall,Data Engineering,Software Engineer,NAB,NSW,2018-10-23,77757,Y,EMP020
+EMP047,Olivia,Walker,Operations,Software Engineer,Commonwealth Bank,QLD,2017-02-04,159557,Y,EMP014
+EMP048,Anika,Williams,Engineering,Analytics Engineer,ANZ,ACT,2018-04-23,146691,Y,EMP009
+EMP049,Noah,Jackson,Data Engineering,Data Analyst,Commonwealth Bank,TAS,2017-05-15,174518,Y,EMP020
+EMP050,Emily,Johnson,Product,Risk Analyst,ANZ,SA,2022-02-16,218188,Y,EMP017
+EMP051,Emily,Young,Data Analytics,Risk Analyst,Afterpay,SA,2016-03-24,146394,Y,EMP020
+EMP052,James,Williams,Product,Product Manager,Macquarie Bank,SA,2015-02-28,127130,N,EMP003
+EMP053,Harper,Harris,Risk & Compliance,Data Analyst,Commonwealth Bank,TAS,2016-05-02,190366,N,EMP002
+EMP054,Ravi,Martin,Risk & Compliance,Lead DE,Tyro Payments,ACT,2018-02-17,114355,Y,EMP011
+EMP055,Mia,Jones,Data Analytics,Data Analyst,Commonwealth Bank,TAS,2024-03-06,181857,N,EMP008
+EMP056,Lucas,Johnson,Data Analytics,Junior DE,NAB,WA,2024-03-26,211524,Y,EMP010
+EMP057,Mason,Thomas,Product,Product Manager,Bendigo Bank,ACT,2021-03-24,177550,Y,EMP011
+EMP058,Sophia,Taylor,Finance,Product Manager,Macquarie Bank,VIC,2015-11-04,147700,N,EMP005
+EMP059,Aiden,Brown,Data Analytics,Junior DE,Afterpay,SA,2020-07-26,65272,Y,EMP001
+EMP060,Abigail,Williams,Operations,Junior DE,ANZ,NSW,2017-04-29,194126,Y,EMP005
+EMP061,Aiden,Jones,Operations,Lead DE,Macquarie Bank,NSW,2023-12-30,66447,Y,EMP001
+EMP062,Elijah,Harris,Risk & Compliance,Product Manager,Tyro Payments,SA,2021-09-12,71445,N,EMP012
+EMP063,Lucas,Williams,Engineering,Junior DE,Afterpay,WA,2016-04-11,170001,Y,EMP010
+EMP064,Oliver,Davis,Operations,Analytics Engineer,Tyro Payments,TAS,2017-12-24,77576,N,EMP013
+EMP065,Harper,Jones,Data Analytics,Senior DE,Afterpay,TAS,2023-01-17,84632,Y,EMP005
+EMP066,Liam,Anderson,Risk & Compliance,Junior DE,Westpac,TAS,2019-11-03,92434,Y,EMP001
+EMP067,Aiden,Wilson,Operations,Risk Analyst,Bendigo Bank,TAS,2023-05-13,112206,Y,EMP019
+EMP068,Wei,Thompson,Engineering,Data Analyst,Airwallex,SA,2016-08-05,88860,N,EMP013
+EMP069,Sione,Miller,Operations,Lead DE,Up Bank,SA,2017-10-21,216029,Y,EMP009
+EMP070,Sione,Hall,Data Engineering,Software Engineer,Commonwealth Bank,VIC,2018-12-13,114857,Y,EMP018
+EMP071,Mason,White,Data Engineering,Analytics Engineer,Macquarie Bank,QLD,2018-04-19,210872,Y,EMP008
+EMP072,Sione,Davis,Product,Junior DE,Judo Bank,ACT,2022-07-05,180649,Y,EMP017
+EMP073,Ethan,Davis,Operations,Product Manager,Judo Bank,QLD,2018-09-10,179912,Y,EMP013
+EMP074,Emma,Thompson,Finance,Lead DE,Up Bank,QLD,2023-06-15,121642,Y,EMP019
+EMP075,Charlotte,Wilson,Engineering,Senior DE,Up Bank,WA,2015-03-07,68415,N,EMP011
+EMP076,Amelia,Jackson,Finance,Data Engineer,Bendigo Bank,NSW,2016-10-05,118126,Y,EMP004
+EMP077,Evelyn,Jackson,Finance,Junior DE,Zip Co,SA,2023-06-22,176804,Y,EMP002
+EMP078,Lucas,White,Operations,Data Analyst,Zip Co,SA,2015-12-30,70172,Y,EMP017
+EMP079,Wei,Wilson,Data Analytics,Data Analyst,Airwallex,QLD,2022-08-07,106960,N,EMP005
+EMP080,William,Young,Operations,Data Analyst,Macquarie Bank,TAS,2023-06-22,216161,N,EMP002
