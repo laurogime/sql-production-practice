@@ -39,3 +39,7 @@ dbo.loans & dbo.accounts:
 
 ## AFTER ATTEMPT 1:
 - I spent my last 3 hours figuring out how to include the average credit score to loan type because I know my result is not correct and has a wrong granularity. I never search for the answer because this is the type of struggle I want so that I can grow even more. At last, I submit my first attempt with the wrong asnwer, and I will try to implement the right syntax in the attemp 2 based on the critic of Claude AI.
+- After taking the claude's review on my assignment #1, I realize that I am climbing the wrong tree: during the attempt 1, I keep executing the average credit score from the customer's table without realizing that every customer's credit score is unique and it doesn't make sense if I use group by clause using the customer's id because it would lead to the the same result as thier credit score. After reading the clues from Claude, I now understand that I need to execute the average credit score under loan's table using join. By then, I should get the right grain: one row per each loan type.
+- I now know the problem and how to solve it if I encounter the same one.
+
+## AFTER ATTEMPT 2: 

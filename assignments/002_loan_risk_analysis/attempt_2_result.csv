@@ -1,0 +1,6 @@
+loan_type,total_outstanding_balance,number_of_active_loans,avg_interest_rate,avg_credit_score,flag_risk
+Business Loan,970945.00,6,10.10,608.00,Medium Risk
+Car Loan,2420387.39,9,7.90,626.00,Medium Risk
+HECS,980593.78,7,7.29,589.00,Medium Risk
+Home Loan,667221.66,2,6.32,637.00,Medium Risk
+Personal Loan,3694228.19,8,8.48,603.00,Medium Risk
